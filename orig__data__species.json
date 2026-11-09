@@ -1,0 +1,1057 @@
+[
+  {
+    "id": "capybara",
+    "chineseName": "水豚",
+    "scientificName": "Hydrochoerus hydrochaeris",
+    "group": "哺乳类",
+    "habitat": "riverbank",
+    "activity": "常在晨昏活动；炎热时段常利用水体降温。",
+    "behavior": "成群利用水岸草地，低头啃食草本和水生植物；受惊可入水。",
+    "rangeNote": "亚马逊中部河流岛屿有记录；展示应靠近永久水体，不将其安排为密林内部常驻动物。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Hydrochoerus hydrochaeris",
+        "url": "https://animaldiversity.org/accounts/Hydrochoerus_hydrochaeris/"
+      },
+      {
+        "title": "Central Amazon bushmeat mammal distribution study（2023）",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10694382/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "integrated_model"
+  },
+  {
+    "id": "tapir",
+    "chineseName": "南美貘",
+    "scientificName": "Tapirus terrestris",
+    "group": "哺乳类",
+    "habitat": "understory",
+    "activity": "以夜间活动为主，也可在其他时段出现。",
+    "behavior": "通常独行，在低地森林中取食叶片、嫩枝和果实；常靠近水源。",
+    "rangeNote": "秘鲁 Madre de Dios 亚马逊低地森林的实地名录有记录。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Tapirus terrestris",
+        "url": "https://animaldiversity.org/accounts/Tapirus_terrestris/"
+      },
+      {
+        "title": "Alliance for a Sustainable Amazon：秘鲁 Madre de Dios 的 Finca Las Piedras 实地物种名录（2023）",
+        "url": "https://www.sustainableamazon.org/_files/ugd/e7c96d_86a539dc23294e3ab86cf1385744fb43.pdf"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "integrated_model"
+  },
+  {
+    "id": "macaw",
+    "chineseName": "蓝黄金刚鹦鹉",
+    "scientificName": "Ara ararauna",
+    "group": "鸟类",
+    "habitat": "canopy",
+    "activity": "日间活动；清晨外出觅食，炎热时段可在树荫休息。",
+    "behavior": "成对或成群在高枝停栖、飞行和取食果实、种子；巢位在高处树洞。",
+    "rangeNote": "秘鲁 Madre de Dios 的亚马逊森林有实地记录，适于河岸林及棕榈丰富的森林环境。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Ara ararauna",
+        "url": "https://animaldiversity.org/accounts/Ara_ararauna/"
+      },
+      {
+        "title": "Alliance for a Sustainable Amazon：秘鲁 Madre de Dios 的 Finca Las Piedras 实地物种名录（2023）",
+        "url": "https://www.sustainableamazon.org/_files/ugd/e7c96d_86a539dc23294e3ab86cf1385744fb43.pdf"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "integrated_model"
+  },
+  {
+    "id": "jaguar",
+    "chineseName": "美洲豹",
+    "scientificName": "Panthera onca",
+    "group": "哺乳类",
+    "habitat": "forest_floor",
+    "activity": "晨昏常活跃，也可昼夜活动。",
+    "behavior": "通常独行，在浓密植被掩护下行走、伏卧和潜近猎物；能游泳。",
+    "rangeNote": "亚马逊流域是其最大的连续分布区域之一。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Panthera onca",
+        "url": "https://animaldiversity.org/accounts/Panthera_onca/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "giant_otter",
+    "chineseName": "巨獭",
+    "scientificName": "Pteronura brasiliensis",
+    "group": "哺乳类",
+    "habitat": "riverbank",
+    "activity": "主要在白天觅食。",
+    "behavior": "以家庭群活动，在河流、湖泊和溪流捕食鱼类；河岸植被下设洞穴和休息点。",
+    "rangeNote": "原生分布包括亚马逊水系；适于有岸边遮蔽物的淡水环境。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Pteronura brasiliensis",
+        "url": "https://animaldiversity.org/accounts/Pteronura_brasiliensis/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "amazon_river_dolphin",
+    "chineseName": "亚马逊河豚",
+    "scientificName": "Inia geoffrensis",
+    "group": "哺乳类",
+    "habitat": "water",
+    "activity": "白天和夜间均会活动。",
+    "behavior": "在主河道、支汊和湖泊游动捕食鱼类；随涨落水位改变所用水域。",
+    "rangeNote": "本条采用亚马逊中部水系的 Inia geoffrensis，不将存在分类争议的其他河豚种群混计为同种。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Inia geoffrensis",
+        "url": "https://animaldiversity.org/accounts/Inia_geoffrensis/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "amazonian_manatee",
+    "chineseName": "亚马逊海牛",
+    "scientificName": "Trichechus inunguis",
+    "group": "哺乳类",
+    "habitat": "water",
+    "activity": "昼夜均可活动，需间歇浮出水面呼吸。",
+    "behavior": "在淡水湖湾、缓流和季节性淹水区取食水生植物；水位变化影响迁移。",
+    "rangeNote": "亚马逊流域的淡水海牛，分布涉及巴西、秘鲁、哥伦比亚和厄瓜多尔水系。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Trichechus inunguis",
+        "url": "https://animaldiversity.org/accounts/Trichechus_inunguis/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "brown_throated_sloth",
+    "chineseName": "褐喉三趾树懒",
+    "scientificName": "Bradypus variegatus",
+    "group": "哺乳类",
+    "habitat": "canopy",
+    "activity": "可昼夜活动，不能一律标为纯日行或纯夜行。",
+    "behavior": "在树冠缓慢攀爬、倒挂和取食叶片；大部分时间留在树上。",
+    "rangeNote": "亚马逊中部黑水淹水林有实地活动研究；本条不把所有三趾树懒混为一种。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Bradypus variegatus",
+        "url": "https://animaldiversity.org/accounts/Bradypus_variegatus/"
+      },
+      {
+        "title": "Cathemeral activity in central Amazonian igapó forests",
+        "url": "https://www.sciencedirect.com/org/science/article/pii/S0008430121001428"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "linnaeus_two_toed_sloth",
+    "chineseName": "林氏二趾树懒",
+    "scientificName": "Choloepus didactylus",
+    "group": "哺乳类",
+    "habitat": "canopy",
+    "activity": "主要夜间取食，白天常在枝间休息。",
+    "behavior": "严格树栖，借长爪抓握树枝，倒挂移动，取食叶片等植物材料。",
+    "rangeNote": "分布包含巴西亚马逊河／索利蒙伊斯河一带，以及厄瓜多尔、秘鲁的上亚马逊；不采用将本种误扩展到中美洲的旧描述。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Choloepus didactylus",
+        "url": "https://animaldiversity.org/accounts/Choloepus_didactylus/"
+      },
+      {
+        "title": "American Society of Mammalogists：Choloepus didactylus 分布",
+        "url": "https://www.mammalogy.org/image-library/choloepus-didactylus-3784"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "southern_tamandua",
+    "chineseName": "南方小食蚁兽",
+    "scientificName": "Tamandua tetradactyla",
+    "group": "哺乳类",
+    "habitat": "understory",
+    "activity": "多在夜间活动，也有日间记录。",
+    "behavior": "独行，在树干、藤本及地面寻找蚁和白蚁；可用卷尾辅助攀爬，在树洞休息。",
+    "rangeNote": "秘鲁 Madre de Dios 亚马逊低地森林有实地记录。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Tamandua tetradactyla",
+        "url": "https://animaldiversity.org/accounts/Tamandua_tetradactyla/"
+      },
+      {
+        "title": "Alliance for a Sustainable Amazon：秘鲁 Madre de Dios 的 Finca Las Piedras 实地物种名录（2023）",
+        "url": "https://www.sustainableamazon.org/_files/ugd/e7c96d_86a539dc23294e3ab86cf1385744fb43.pdf"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "giant_armadillo",
+    "chineseName": "大犰狳",
+    "scientificName": "Priodontes maximus",
+    "group": "哺乳类",
+    "habitat": "forest_floor",
+    "activity": "主要夜行。",
+    "behavior": "独自在地面觅食，以强爪挖掘白蚁巢和洞穴，白天通常藏在地洞。",
+    "rangeNote": "其分布的大部分位于亚马逊流域，适于保留可掘土壤和蚁巢的森林地面。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Priodontes maximus",
+        "url": "https://animaldiversity.org/accounts/Priodontes_maximus/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "lowland_paca",
+    "chineseName": "低地无尾刺豚",
+    "scientificName": "Cuniculus paca",
+    "group": "哺乳类",
+    "habitat": "forest_floor",
+    "activity": "主要夜行；白天躲在洞穴或空心倒木。",
+    "behavior": "在靠近水道的森林地面寻找落果，也取食其他植物材料。",
+    "rangeNote": "秘鲁 Madre de Dios 亚马逊森林实地名录记录本种。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Cuniculus paca",
+        "url": "https://animaldiversity.org/accounts/Cuniculus_paca/"
+      },
+      {
+        "title": "Alliance for a Sustainable Amazon：秘鲁 Madre de Dios 的 Finca Las Piedras 实地物种名录（2023）",
+        "url": "https://www.sustainableamazon.org/_files/ugd/e7c96d_86a539dc23294e3ab86cf1385744fb43.pdf"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "black_agouti",
+    "chineseName": "黑刺豚鼠",
+    "scientificName": "Dasyprocta fuliginosa",
+    "group": "哺乳类",
+    "habitat": "forest_floor",
+    "activity": "主要日行；受人类干扰时可转向黄昏活动。",
+    "behavior": "在森林地面行走，寻找果实和其他植物食物；利用根部和河岸遮蔽物。",
+    "rangeNote": "分布包括秘鲁和巴西北部的亚马逊盆地；秘鲁的分布与亚马逊林区相关。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Dasyprocta fuliginosa",
+        "url": "https://animaldiversity.org/accounts/Dasyprocta_fuliginosa/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "kinkajou",
+    "chineseName": "蜜熊",
+    "scientificName": "Potos flavus",
+    "group": "哺乳类",
+    "habitat": "canopy",
+    "activity": "主要夜行，白天在树洞或枝杈处休息。",
+    "behavior": "树栖，沿树枝取食成熟果实等植物食物；可在树上与同伴接触。",
+    "rangeNote": "物种栖息地明确包含亚马逊雨林；展示位置应在树冠枝系而非长时间站在开阔地。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Potos flavus",
+        "url": "https://animaldiversity.org/accounts/Potos_flavus/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "red_howler",
+    "chineseName": "红吼猴",
+    "scientificName": "Alouatta seniculus",
+    "group": "哺乳类",
+    "habitat": "canopy",
+    "activity": "日间活动，清晨可发出响亮的群体吼声。",
+    "behavior": "在树冠群居，沿枝条移动并以叶片为主要食物，也吃果实。",
+    "rangeNote": "采用西部亚马逊的本种范围；厄瓜多尔 Limoncocha 有近期群体观察，不把其他拆分的红吼猴物种并入。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Alouatta seniculus",
+        "url": "https://animaldiversity.org/accounts/Alouatta_seniculus/"
+      },
+      {
+        "title": "Neotropical Primates：Limoncocha 红吼猴群体观察（2024）",
+        "url": "https://primate.socgen.ucla.edu/index.php/multivitaminic/article/view/36"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "emperor_tamarin",
+    "chineseName": "皇柽柳猴",
+    "scientificName": "Saguinus imperator",
+    "group": "哺乳类",
+    "habitat": "canopy",
+    "activity": "日行。",
+    "behavior": "小群在细枝间攀跳，取食果实和昆虫；适合有连续枝系的林缘和次生林。",
+    "rangeNote": "分布在秘鲁东南部、玻利维亚西北部和巴西西部的亚马逊地区，包括部分 Acre、Purus、Juruá 水系。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Saguinus imperator",
+        "url": "https://animaldiversity.org/accounts/Saguinus_imperator/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "common_squirrel_monkey",
+    "chineseName": "普通松鼠猴",
+    "scientificName": "Saimiri sciureus",
+    "group": "哺乳类",
+    "habitat": "understory",
+    "activity": "日行。",
+    "behavior": "群体在森林中层细枝间快速移动，取食果实及昆虫；也使用其他林层。",
+    "rangeNote": "本条限定为巴西亚马逊河以北、内格罗河以东一带的本种种群，不把旧广义分类中的秘鲁、玻利维亚松鼠猴一并计入。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Saimiri sciureus",
+        "url": "https://animaldiversity.org/accounts/Saimiri_sciureus/"
+      },
+      {
+        "title": "Handbook of the Mammals of the World：Saimiri sciureus 分类处理",
+        "url": "https://zenodo.org/records/6628239"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "ocelot",
+    "chineseName": "虎猫",
+    "scientificName": "Leopardus pardalis",
+    "group": "哺乳类",
+    "habitat": "forest_floor",
+    "activity": "多在夜间和晨昏活动；白天常藏在浓密植被或树洞。",
+    "behavior": "通常独行，沿地面循迹捕猎，依靠密集植被掩护，也善于攀爬。",
+    "rangeNote": "秘鲁 Madre de Dios 的亚马逊森林有实地记录。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Leopardus pardalis",
+        "url": "https://animaldiversity.org/accounts/Leopardus_pardalis/"
+      },
+      {
+        "title": "Alliance for a Sustainable Amazon：秘鲁 Madre de Dios 的 Finca Las Piedras 实地物种名录（2023）",
+        "url": "https://www.sustainableamazon.org/_files/ugd/e7c96d_86a539dc23294e3ab86cf1385744fb43.pdf"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "scarlet_macaw",
+    "chineseName": "绯红金刚鹦鹉",
+    "scientificName": "Ara macao",
+    "group": "鸟类",
+    "habitat": "canopy",
+    "activity": "日间觅食，夜间聚集在栖树休息。",
+    "behavior": "常成对活动，在高树冠取食果实和坚果，利用高处树洞繁殖。",
+    "rangeNote": "亚马逊盆地是本种的重要分布区域；不与红绿金刚鹦鹉作为同一种计数。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Ara macao",
+        "url": "https://animaldiversity.org/accounts/Ara_macao/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "red_green_macaw",
+    "chineseName": "红绿金刚鹦鹉",
+    "scientificName": "Ara chloropterus",
+    "group": "鸟类",
+    "habitat": "canopy",
+    "activity": "日行，夜间在树上停栖。",
+    "behavior": "成对或群体利用树冠，取食种子和果实；部分地区会到河岸黏土崖。",
+    "rangeNote": "原生范围包含亚马逊雨林及其边缘，实际出现密度随地区不同。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Ara chloropterus",
+        "url": "https://animaldiversity.org/accounts/Ara_chloropterus/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "harpy_eagle",
+    "chineseName": "角雕",
+    "scientificName": "Harpia harpyja",
+    "group": "鸟类",
+    "habitat": "canopy",
+    "activity": "日行；经常长时间停栖观察猎物。",
+    "behavior": "在高大树枝停栖，穿行林冠捕猎树栖动物，依赖大型树木提供巢位。",
+    "rangeNote": "亚马逊雨林仍保有重要种群；展示为森林树冠猛禽，而非开阔天空中持续盘旋的鹰。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Harpia harpyja",
+        "url": "https://animaldiversity.org/accounts/Harpia_harpyja/"
+      },
+      {
+        "title": "The Peregrine Fund：Harpy Eagle",
+        "url": "https://peregrinefund.org/explore-raptors-species/eagles/harpy-eagle"
+      },
+      {
+        "title": "The Peregrine Fund：巴西亚马逊角雕研究者访谈（2021）",
+        "url": "https://assets.peregrinefund.org/docs/newsletters/spizaetus-31-english-june-2021-2021-06-17_152427.pdf"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "hoatzin",
+    "chineseName": "麝雉",
+    "scientificName": "Opisthocomus hoazin",
+    "group": "鸟类",
+    "habitat": "riverbank",
+    "activity": "常在水边枝叶间停栖和取食；本条不据资料缺项指定固定小时。",
+    "behavior": "群体利用河湖边灌木和枝条，以叶片为主食，巢通常位于水面上方。",
+    "rangeNote": "分布贯穿亚马逊多个区域，栖息地与河岸林、沼泽和淡水湿地相关。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Opisthocomus hoazin",
+        "url": "https://animaldiversity.org/accounts/Opisthocomus_hoazin/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "tayra",
+    "chineseName": "狐鼬",
+    "scientificName": "Eira barbara",
+    "group": "哺乳类",
+    "habitat": "forest_floor",
+    "activity": "主要日行。",
+    "behavior": "可在地面和树上活动，常独行或成对；机会性取食小动物和果实。",
+    "rangeNote": "秘鲁 Madre de Dios 亚马逊森林的实地名录记录本种。",
+    "sources": [
+      {
+        "title": "密歇根大学 Animal Diversity Web：Eira barbara",
+        "url": "https://animaldiversity.org/accounts/Eira_barbara/"
+      },
+      {
+        "title": "Alliance for a Sustainable Amazon：秘鲁 Madre de Dios 的 Finca Las Piedras 实地物种名录（2023）",
+        "url": "https://www.sustainableamazon.org/_files/ugd/e7c96d_86a539dc23294e3ab86cf1385744fb43.pdf"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "sunbittern",
+    "chineseName": "日鳽",
+    "scientificName": "Eurypyga helias",
+    "group": "鸟类",
+    "habitat": "riverbank",
+    "activity": "沿浅水岸缓慢步行觅食；不以固定小时排程。",
+    "behavior": "利用有林木遮蔽的溪岸和浅水，以长颈和尖喙快速捕捉鱼、昆虫及其他小动物；展开翅膀的眼斑是防御展示，不是常态。",
+    "rangeNote": "明确分布于亚马逊和奥里诺科盆地；本展示选用亚马逊林溪环境。",
+    "sources": [
+      {
+        "title": "Buffalo Zoo：Sunbittern 分布、生境与捕食行为",
+        "url": "https://buffalozoo.org/animal/sunbittern/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "amazon_kingfisher",
+    "chineseName": "亚马逊绿鱼狗",
+    "scientificName": "Chloroceryle amazona",
+    "group": "鸟类",
+    "habitat": "riverbank",
+    "activity": "白天捕食，常见于上午和下午。",
+    "behavior": "在临水枝条上观察，俯冲入水捕鱼后返回栖枝；巢穴可掘于河岸。",
+    "rangeNote": "秘鲁 Madre de Dios 亚马逊地区有实地记录；不能仅凭英文名 Amazon Kingfisher 推断分布。",
+    "sources": [
+      {
+        "title": "Alliance for a Sustainable Amazon：秘鲁 Madre de Dios 的 Finca Las Piedras 实地物种名录（2023）",
+        "url": "https://www.sustainableamazon.org/_files/ugd/e7c96d_86a539dc23294e3ab86cf1385744fb43.pdf"
+      },
+      {
+        "title": "阿根廷国家公园 SIB：Chloroceryle amazona 生境与习性",
+        "url": "https://sib.gob.ar/especies/chloroceryle-amazona"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "white_throated_toucan",
+    "chineseName": "白喉巨嘴鸟",
+    "scientificName": "Ramphastos tucanus",
+    "group": "鸟类",
+    "habitat": "canopy",
+    "activity": "白天活动；厄瓜多尔低地林的研究记录了上午鸣叫。",
+    "behavior": "在树冠及林缘枝条取食，以果实为主，也会吃小型动物；利用树洞筑巢。",
+    "rangeNote": "厄瓜多尔亚马逊低地湿林和安第斯东坡有记录；亚马逊不同地区的亚种喙色并不完全相同。",
+    "sources": [
+      {
+        "title": "厄瓜多尔 Amaru 动物园：Tucán Goliblanco",
+        "url": "https://www.zoobioparqueamaru.com/nuestros-animales/animal.php?Grupo=aves&Id_Animal=24-tucan-goliblanco"
+      },
+      {
+        "title": "Journal of Field Ornithology：厄瓜多尔低地森林鸟类清晨鸣声研究",
+        "url": "https://journal.afonet.org/vol95/iss3/art12/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "blue_headed_parrot",
+    "chineseName": "蓝头鹦鹉",
+    "scientificName": "Pionus menstruus",
+    "group": "鸟类",
+    "habitat": "canopy",
+    "activity": "在树冠取食和集群栖息；本条不额外指定固定时段。",
+    "behavior": "在上层树冠吃果实、种子和花，非繁殖期常聚群，利用旧树洞繁殖。",
+    "rangeNote": "本条采用包含巴西亚马逊和秘鲁 Manu 的指名亚种分布，不把仅大西洋沿岸的亚种范围当作亚马逊证据。",
+    "sources": [
+      {
+        "title": "World Parrot Trust：Blue-headed Parrot 野外分布、饮食与行为",
+        "url": "https://parrots.org/encyclopedia/blue-headed-parrot/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "amazon_milk_frog",
+    "chineseName": "亚马逊乳蛙",
+    "scientificName": "Trachycephalus resinifictrix",
+    "group": "两栖类",
+    "habitat": "canopy",
+    "activity": "主要夜行。",
+    "behavior": "树栖，在枝条和树洞附近活动；雄蛙可从积水树洞鸣叫，蝌蚪在树洞水体发育。",
+    "rangeNote": "按美国自然历史博物馆当前账户，狭义本种位于巴西东部亚马逊及圭亚那地区；不沿用覆盖所有西部亚马逊的旧广义范围。",
+    "sources": [
+      {
+        "title": "AMNH Amphibian Species of the World：Trachycephalus resinifictrix 当前范围",
+        "url": "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Hylidae/Trachycephalus/Trachycephalus-resinifictrix"
+      },
+      {
+        "title": "San Francisco Zoo：Amazon milk frog 夜行、树栖和树洞繁殖",
+        "url": "https://www.sfzoo.org/animals-exhibits/a-to-z/amazon-milk-frog/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "giant_monkey_frog",
+    "chineseName": "双色叶蛙",
+    "scientificName": "Phyllomedusa bicolor",
+    "group": "两栖类",
+    "habitat": "canopy",
+    "activity": "夜行。",
+    "behavior": "在树枝和叶片上攀行；繁殖时利用水体上方叶片，幼体随后进入水中发育。",
+    "rangeNote": "分布涉及巴西、秘鲁、哥伦比亚、玻利维亚等国的亚马逊雨林；现仍按一个名义物种计数，不把研究中的遗传谱系另算物种。",
+    "sources": [
+      {
+        "title": "AMNH：Phyllomedusa bicolor 分布与分类",
+        "url": "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Phyllomedusidae/Phyllomedusa/Phyllomedusa-bicolor"
+      },
+      {
+        "title": "INPA：Amazonian giant monkey frog hidden diversity（2020）",
+        "url": "https://ppbio.inpa.gov.br/sites/default/files/Mota_E_P_et_al_2020_Amphibia_Reptilia.pdf"
+      },
+      {
+        "title": "INPA：Temporal variation and abundance in frogs（2008）",
+        "url": "https://ppbio.inpa.gov.br/sites/default/files/Menin_et_al_2008.pdf"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "mimic_poison_frog",
+    "chineseName": "模仿箭毒蛙",
+    "scientificName": "Ranitomeya imitator",
+    "group": "两栖类",
+    "habitat": "understory",
+    "activity": "日行，常在清晨和下午活动。",
+    "behavior": "在林下植物茎叶间攀爬，利用叶腋等微小积水育幼；雄蛙搬运蝌蚪，雌蛙可提供营养卵。",
+    "rangeNote": "原生于秘鲁北部 Huallaga 支流区域及相邻低地林，属于亚马逊水系；不同颜色形态只算同一物种。",
+    "sources": [
+      {
+        "title": "AmphibiaWeb 物种稿，经 Encyclopedia of Life 提供：Ranitomeya imitator",
+        "url": "https://eol.org/pages/313602/articles"
+      },
+      {
+        "title": "Nature Communications：Ranitomeya imitator 在秘鲁低地雨林的种群研究（2014）",
+        "url": "https://www.nature.com/articles/ncomms5749"
+      },
+      {
+        "title": "Ranitomeya 分类专著章节，作者上传稿（2015）",
+        "url": "https://www.researchgate.net/publication/320258081_Ranitomeya_pre-pub_chapter_2015_pp_1-85"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "variable_poison_frog",
+    "chineseName": "变异箭毒蛙",
+    "scientificName": "Ranitomeya variabilis",
+    "group": "两栖类",
+    "habitat": "understory",
+    "activity": "日行。",
+    "behavior": "在林下植被及积水植物附近活动；雄蛙将蝌蚪运到小水体，凤梨叶腋是繁殖微生境之一。",
+    "rangeNote": "当前 AMNH 范围包含秘鲁、厄瓜多尔、哥伦比亚和巴西西部亚马逊森林；与 Ranitomeya amazonica 的旧记录混用需谨慎。",
+    "sources": [
+      {
+        "title": "AMNH：Ranitomeya variabilis 当前分布和分类记录",
+        "url": "https://amphibiansoftheworld.amnh.org/Amphibia/Anura/Dendrobatoidea/Dendrobatidae/Dendrobatinae/Ranitomeya/Ranitomeya-variabilis"
+      },
+      {
+        "title": "Cuadernos de Herpetología：Ranitomeya variabilis 日行、林层与凤梨繁殖生境（2022）",
+        "url": "https://sedici.unlp.edu.ar/bitstream/handle/10915/147086/Revista_completa.pdf-PDFA.pdf?isAllowed=y&sequence=1"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "three_striped_poison_frog",
+    "chineseName": "三纹箭毒蛙",
+    "scientificName": "Ameerega trivittata",
+    "group": "两栖类",
+    "habitat": "forest_floor",
+    "activity": "日行。",
+    "behavior": "主要利用林地落叶层和倒木附近；雄蛙有领地鸣叫，能搬运蝌蚪到水体。",
+    "rangeNote": "亚马逊低地广布种；东部亚马逊 terra firme 森林有繁殖和微生境研究。",
+    "sources": [
+      {
+        "title": "Salamandra：Homing behavior in Ameerega trivittata（2018）",
+        "url": "https://www.salamandra-journal.com/index.php/contents/2018-vol-54/1887-nothacker-j-a-c-p-neu-m-mayer-n-wagner-s-loetters/file"
+      },
+      {
+        "title": "INPA Acta Amazonica：Ameerega trivittata 繁殖和微生境研究（2014）",
+        "url": "https://acta.inpa.gov.br/fasciculos/44-4/PDF/AA-2013-0538.pdf"
+      },
+      {
+        "title": "British Herpetological Society：Diet and tadpole transportation（2015）",
+        "url": "https://www.thebhs.org/publications/the-herpetological-journal/volume-25-number-3-july-2015/789-09-diet-and-tadpole-transportation-in-the-poison-dart-frog-i-ameerega-trivittata-i-anura-dendrobatidae"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "leafcutter_ant",
+    "chineseName": "头切叶蚁",
+    "scientificName": "Atta cephalotes",
+    "group": "昆虫类",
+    "habitat": "forest_floor",
+    "activity": "取食时段随蚁群和环境改变，可偏夜行或在白天活动。",
+    "behavior": "工蚁沿固定路线切割、搬运叶片回巢，叶片用于培育共生真菌；不把搬叶等同于直接吃叶。",
+    "rangeNote": "厄瓜多尔 Napo 的 Jatun Sacha 有机构标本记录，是亚马逊低地林中的真实种。",
+    "sources": [
+      {
+        "title": "厄瓜多尔 INABIO：Napo／Jatun Sacha 的 Atta cephalotes 标本记录",
+        "url": "https://bndb.sisbioecuador.bio/bndb/collections/list.php?country=Ecuador&db=18&page=2&state=Napo"
+      },
+      {
+        "title": "Dartmouth Tropical Ecology：Atta cephalotes 昼夜觅食及菌园研究（2024）",
+        "url": "https://bpb-us-e1.wpmucdn.com/sites.dartmouth.edu/dist/5/2080/files/2025/08/2024.DartmouthFSPBook.pdf.pdf"
+      },
+      {
+        "title": "Living World：切叶蚁昼夜觅食周期的观察",
+        "url": "https://ttfnc.org/livworld/lw1975/1975p46peregrine.pdf"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "integrated_model"
+  },
+  {
+    "id": "bullet_ant",
+    "chineseName": "子弹蚁",
+    "scientificName": "Paraponera clavata",
+    "group": "昆虫类",
+    "habitat": "understory",
+    "activity": "通常偏夜行，但不同蚁群的节律有差异。",
+    "behavior": "巢常在树基土壤中，工蚁沿树干和枝条寻找节肢动物及花外蜜；不展示为持续攻击大型动物。",
+    "rangeNote": "分布延伸到亚马逊中部低地热带雨林；展示需包括树基巢位与向上觅食路线。",
+    "sources": [
+      {
+        "title": "Journal of Insect Science：Paraponera clavata 分布与觅食研究（2002）",
+        "url": "https://academic.oup.com/jinsectscience/article/2/1/18/863807"
+      },
+      {
+        "title": "Journal of Insect Science：Paraponera clavata 地面筑巢与水环境（2005）",
+        "url": "https://academic.oup.com/jinsectscience/article/5/1/34/893389"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available"
+  },
+  {
+    "id": "morpho",
+    "chineseName": "墨蓝闪蝶",
+    "scientificName": "Morpho menelaus",
+    "group": "昆虫类",
+    "habitat": "understory",
+    "activity": "成蝶白天活动；不同性别和地点的活动高峰可不同。",
+    "behavior": "成蝶在林中飞行，利用落果和湿土等资源；合翅停栖时主要显露褐色腹面。",
+    "rangeNote": "亚马逊 Amazonas 的 Iranduba 有实地影像，INPA Manaus 收藏标本；不把所有蓝色闪蝶混为本种。",
+    "sources": [
+      {
+        "title": "卡尔斯鲁厄自然历史博物馆 Amazonian Butterflies：Morpho menelaus，含 INPA 标本与 Iranduba 记录",
+        "url": "https://www.amazonian-butterflies.net/families/?cHash=906943e92c810390ec68e91b43ad4730&tx_psbfieldguide_fg%5Baction%5D=show&tx_psbfieldguide_fg%5Bcontroller%5D=Species&tx_psbfieldguide_fg%5Bspecies%5D=130"
+      },
+      {
+        "title": "秘鲁 IIAP：Morpho menelaus occidentalis 昼行蝶生物研究（2017）",
+        "url": "https://api-repositorio.iiap.gob.pe/server/api/core/bitstreams/a7b81ff1-a2db-4ce3-a0ca-f9d905985a0e/content"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "integrated_model"
+  },
+  {
+    "id": "arapaima",
+    "chineseName": "巨骨舌鱼",
+    "scientificName": "Arapaima gigas",
+    "group": "鱼类",
+    "habitat": "water",
+    "activity": "水中游动，定期到水面呼吸",
+    "behavior": "雨季进入洪泛林，低水位时利用较深河道与湖泊；不适合放进很浅的小溪。",
+    "rangeNote": "原生于亚马逊流域部分地区；并非流域每个地点都有原生分布。",
+    "sources": [
+      {
+        "title": "佛罗里达大学 IFAS",
+        "url": "https://ask.ifas.ufl.edu/publication/FA236"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available",
+    "verifiedDate": "2026-11-07"
+  },
+  {
+    "id": "red_bellied_piranha",
+    "chineseName": "红腹食人鱼",
+    "scientificName": "Pygocentrus nattereri",
+    "group": "鱼类",
+    "habitat": "water",
+    "activity": "水中活动；本条不限定昼夜",
+    "behavior": "主要考虑白水河流与相连水域，不能把现有黑水池直接视为合适生境。",
+    "rangeNote": "自然分布包括亚马逊流域，也包括其他南美水系。",
+    "sources": [
+      {
+        "title": "Animal Diversity Web",
+        "url": "https://animaldiversity.org/accounts/Pygocentrus_nattereri/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available",
+    "verifiedDate": "2026-11-07"
+  },
+  {
+    "id": "tambaqui",
+    "chineseName": "大盖巨脂鲤",
+    "scientificName": "Colossoma macropomum",
+    "group": "鱼类",
+    "habitat": "water",
+    "activity": "活动随洪水周期变化",
+    "behavior": "高水位进入被淹森林，利用落入水中的果实与种子；低水位时回到河道。",
+    "rangeNote": "分布于亚马逊流域，中央亚马逊是重要区域。",
+    "sources": [
+      {
+        "title": "亚马逊水域观测站",
+        "url": "https://observatorio.aguasamazonicas.org/en/taxa/colossoma-macropomum/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available",
+    "verifiedDate": "2026-11-07"
+  },
+  {
+    "id": "cardinal_tetra",
+    "chineseName": "阿氏霓虹脂鲤",
+    "scientificName": "Paracheirodon axelrodi",
+    "group": "鱼类",
+    "habitat": "water",
+    "activity": "在森林溪流与被淹植被间游动",
+    "behavior": "使用内格罗河流域的小溪、支流源头与黑水洪泛林环境，展示时保留树根和遮蔽。",
+    "rangeNote": "原生分布包括亚马逊流域的内格罗河水系，另见于奥里诺科水系。",
+    "sources": [
+      {
+        "title": "Neotropical Ichthyology",
+        "url": "https://www.ni.bio.br/1982-0224-2019-0109/"
+      },
+      {
+        "title": "物种生物学综述",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/23308249.2026.2688117"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available",
+    "verifiedDate": "2026-11-07"
+  },
+  {
+    "id": "ocellate_river_ray",
+    "chineseName": "眼斑魟",
+    "scientificName": "Potamotrygon motoro",
+    "group": "鱼类",
+    "habitat": "water",
+    "activity": "贴近底层活动",
+    "behavior": "偏好较平缓、具有砂质底床的水域，能部分埋入沙底；不是在树冠高度悬浮游动。",
+    "rangeNote": "南美多个河流系统的原生淡水魟，亚马逊流域有记录。",
+    "sources": [
+      {
+        "title": "Animal Diversity Web",
+        "url": "https://animaldiversity.org/accounts/Potamotrygon_motoro/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available",
+    "verifiedDate": "2026-11-07"
+  },
+  {
+    "id": "silver_arowana",
+    "chineseName": "双须骨舌鱼（银龙鱼）",
+    "scientificName": "Osteoglossum bicirrhosum",
+    "group": "鱼类",
+    "habitat": "water",
+    "activity": "接近水面游动与取食",
+    "behavior": "上位口适合向水面捕食；可以跃起取食昆虫，但不应持续跳跃作为待机动作。",
+    "rangeNote": "亚马逊河流域的原生鱼类，也见于部分邻近水系。",
+    "sources": [
+      {
+        "title": "FishBase",
+        "url": "https://www.fishbase.se/summary/6234"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available",
+    "verifiedDate": "2026-11-07"
+  },
+  {
+    "id": "redtail_catfish",
+    "chineseName": "红尾鲶",
+    "scientificName": "Phractocephalus hemioliopterus",
+    "group": "鱼类",
+    "habitat": "water",
+    "activity": "河底附近活动",
+    "behavior": "淡水底层大型鱼，取食鱼、蟹及果实；需要足够水深与河底活动空间。",
+    "rangeNote": "原生于亚马逊与奥里诺科流域。",
+    "sources": [
+      {
+        "title": "FishBase",
+        "url": "https://www.fishbase.se/summary/Phractocephalus_hemioliopterus.html"
+      },
+      {
+        "title": "加州科学院鱼类目录",
+        "url": "https://researcharchive.calacademy.org/research/ichthyology/catalog/fishcatget.asp?genus=Phractocephalus&species=hemioliopterus&tbl=species"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available",
+    "verifiedDate": "2026-11-07"
+  },
+  {
+    "id": "blue_discus",
+    "chineseName": "蓝七彩神仙鱼",
+    "scientificName": "Symphysodon aequifasciatus",
+    "group": "鱼类",
+    "habitat": "water",
+    "activity": "常成群，繁殖时表现领域性",
+    "behavior": "利用较深水域、缝隙与树根间的遮蔽，取食小型无脊椎动物；采用野生形态，不使用人工育种花色冒充野生种。",
+    "rangeNote": "按 FishBase 使用的分类，分布包括亚马逊干流及其部分支流。",
+    "sources": [
+      {
+        "title": "FishBase 物种资料",
+        "url": "https://fishbase.se/Summary/SpeciesSummary.php?id=11185"
+      },
+      {
+        "title": "亚马逊采集地点记录",
+        "url": "https://www.fishbase.org/map/Symphysodon_aequifasciatus"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available",
+    "verifiedDate": "2026-11-07"
+  },
+  {
+    "id": "monoculus_peacock_bass",
+    "chineseName": "单眼丽鱼",
+    "scientificName": "Cichla monoculus",
+    "group": "鱼类",
+    "habitat": "water",
+    "activity": "沿岸游动与捕食",
+    "behavior": "沿岸寻找聚集的小鱼；幼鱼会取食虾，成鱼主要食鱼。不能与小鱼在狭小空间永久无风险混养。",
+    "rangeNote": "见于索利蒙伊斯—亚马逊干流及部分支流下游。",
+    "sources": [
+      {
+        "title": "FishBase",
+        "url": "https://www.fishbase.se/Fieldguide/FieldGuideSummary.php?c_code=170&genusname=Cichla&speciesname=monoculus"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available",
+    "verifiedDate": "2026-11-07"
+  },
+  {
+    "id": "cuvier_dwarf_caiman",
+    "chineseName": "钝吻古鳄",
+    "scientificName": "Paleosuchus palpebrosus",
+    "group": "爬行动物",
+    "habitat": "riverbank",
+    "activity": "偏夜间活动，白天可隐蔽休息",
+    "behavior": "使用森林溪流、浅水与岸边遮蔽物；有利用洞穴和腐木附近空间的记录。",
+    "rangeNote": "亚马逊与奥里诺科流域广泛分布的侏儒凯门鳄。",
+    "sources": [
+      {
+        "title": "Animal Diversity Web",
+        "url": "https://animaldiversity.org/accounts/Paleosuchus_palpebrosus/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available",
+    "verifiedDate": "2026-11-07"
+  },
+  {
+    "id": "black_caiman",
+    "chineseName": "黑凯门鳄",
+    "scientificName": "Melanosuchus niger",
+    "group": "爬行动物",
+    "habitat": "riverbank",
+    "activity": "水边隐蔽休息与捕食；本条不限定时段",
+    "behavior": "使用缓流淡水河流、湖泊、黑水湿地及季节淹水地区，需要充分水域与隐蔽岸线。",
+    "rangeNote": "原生于亚马逊流域的多个地区，并不与所有其他凯门鳄在相同微生境出现。",
+    "sources": [
+      {
+        "title": "Animal Diversity Web",
+        "url": "https://animaldiversity.org/accounts/Melanosuchus_niger/"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available",
+    "verifiedDate": "2026-11-07"
+  },
+  {
+    "id": "spectacled_caiman",
+    "chineseName": "眼镜凯门鳄",
+    "scientificName": "Caiman crocodilus",
+    "group": "爬行动物",
+    "habitat": "riverbank",
+    "activity": "多在夜间取食，白天休息或晒背",
+    "behavior": "偏好河流与湿地的缓流水域；与黑凯门鳄有生境和资源利用差异，不应当作完全相同的生态角色。",
+    "rangeNote": "中央亚马逊的马米拉瓦等地有野外研究记录。",
+    "sources": [
+      {
+        "title": "Animal Diversity Web",
+        "url": "https://animaldiversity.org/accounts/Caiman_crocodilus/"
+      },
+      {
+        "title": "中央亚马逊野外研究",
+        "url": "https://link.springer.com/article/10.1007/s00360-017-1103-8"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available",
+    "verifiedDate": "2026-11-07"
+  },
+  {
+    "id": "amazon_mata_mata",
+    "chineseName": "亚马逊枯叶龟",
+    "scientificName": "Chelus fimbriata",
+    "group": "爬行动物",
+    "habitat": "water",
+    "activity": "隐蔽等待猎物",
+    "behavior": "利用慢流水与被淹森林环境，借外形伪装并伏击活鱼；并非持续在开阔水面快速巡游。",
+    "rangeNote": "见于索利蒙伊斯—亚马逊水系及马胡里河流域；上内格罗等水系被划为奥里诺科枯叶龟的种群不计入本种。",
+    "sources": [
+      {
+        "title": "IUCN 龟类专家组",
+        "url": "https://iucn-tftsg.org/cbftt/species-accounts/chelus-fimbriata-020/"
+      },
+      {
+        "title": "龟类专家组生态专文",
+        "url": "https://iucn-tftsg.org/wp-content/uploads/file/Accounts/crm_5_020_fimbriata_v1_2008.pdf"
+      },
+      {
+        "title": "巴西亚马逊龟类保护计划",
+        "url": "https://www.ibama.gov.br/sophia/cnia/livros/PANqueloniosamazonicos.pdf"
+      },
+      {
+        "title": "CITES 2022 分类与分布说明",
+        "url": "https://cites.org/sites/default/files/documents/E-CoP19-Prop-22-R1.pdf"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available",
+    "verifiedDate": "2026-11-07"
+  },
+  {
+    "id": "giant_amazon_turtle",
+    "chineseName": "巨型南美侧颈龟",
+    "scientificName": "Podocnemis expansa",
+    "group": "爬行动物",
+    "habitat": "water",
+    "activity": "水中活动；繁殖地点随季节水位改变",
+    "behavior": "利用大河、支流和相邻泻湖、森林池塘。河岸沙洲与水域承担不同生活史功能。",
+    "rangeNote": "亚马逊流域及部分南美其他水系的原生大型淡水龟。",
+    "sources": [
+      {
+        "title": "Naturalis 世界龟类资料",
+        "url": "https://turtles.linnaeus.naturalis.nl/linnaeus_ng/app/views/species/taxon.php?epi=11&id=7918"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available",
+    "verifiedDate": "2026-11-07"
+  },
+  {
+    "id": "green_anaconda",
+    "chineseName": "绿水蚺",
+    "scientificName": "Eunectes murinus",
+    "group": "爬行动物",
+    "habitat": "riverbank",
+    "activity": "半水栖，常隐蔽停留",
+    "behavior": "利用湿地、水体及附近遮蔽处伏击取食，运动节律不能处理成持续高速追逐。",
+    "rangeNote": "秘鲁西部亚马逊马德雷德迪奥斯河支流有研究记录；本条不把北方争议分类重复计为另一种。",
+    "sources": [
+      {
+        "title": "西部亚马逊生境研究",
+        "url": "https://www.tandfonline.com/doi/full/10.1080/00222933.2025.2479875"
+      },
+      {
+        "title": "美国地质调查局物种资料",
+        "url": "https://nas.er.usgs.gov/queries/FactSheet.aspx?speciesID=2636"
+      }
+    ],
+    "verificationStatus": "verified",
+    "modelStatus": "not_available",
+    "verifiedDate": "2026-11-07"
+  }
+]
