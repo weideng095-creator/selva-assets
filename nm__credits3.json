@@ -1,0 +1,542 @@
+{
+ "squirrelmonkey": {
+  "uid": "0f253564bd4a4141955a00053dbf0c39",
+  "name": "Saïmiri",
+  "author": "Lary",
+  "user": "larycim",
+  "license": "CC Attribution",
+  "faces": 21753,
+  "anims": 0
+ },
+ "coati": {
+  "uid": "c39e0e544c254990b369653295e09e99",
+  "name": "Small Coati Standing Realistic",
+  "author": "Pigcraft",
+  "user": "s8819296",
+  "license": "CC Attribution",
+  "faces": 563736,
+  "anims": 0
+ },
+ "cockrock": {
+  "uid": "6a9c4be2109a44f7b8504e43d9398623",
+  "name": "Rupicola Rupicola",
+  "author": "The Watt Institution",
+  "user": "wattinstitution",
+  "license": "CC Attribution",
+  "faces": 238154,
+  "anims": 0
+ },
+ "curassow": {
+  "uid": "270b659d9af74a7e986a85b3353ee839",
+  "name": "black curassow | Crax alector (with sound)",
+  "author": "darwinmuseum.ru",
+  "user": "darwinmuseum.ru",
+  "license": "CC Attribution",
+  "faces": 407810,
+  "anims": 0
+ },
+ "hornedfrog": {
+  "uid": "6ce0ce5c7899486197332b06c65fa063",
+  "name": "Ceratophrys cranwelli",
+  "author": "Alex Griswold",
+  "user": "griswold",
+  "license": "CC Attribution",
+  "faces": 159983,
+  "anims": 0
+ },
+ "pacu": {
+  "uid": "8bf25999b1ae4a2a9783cbace06e4a3b",
+  "name": "Piaractus Brachypomus",
+  "author": "Nullified",
+  "user": "Nullifiedit",
+  "license": "CC Attribution",
+  "faces": 160400,
+  "anims": 0
+ },
+ "discus": {
+  "uid": "07ca0c407dc54be5a449b84eafa8977e",
+  "name": "Discus_1",
+  "author": "Comitre",
+  "user": "Comitre",
+  "license": "CC Attribution",
+  "faces": 3092,
+  "anims": 0
+ },
+ "canetoad": {
+  "uid": "12fa30dcf033449e9ded127ab03903f6",
+  "name": "Cane Toad",
+  "author": "RISD Nature Lab",
+  "user": "RISDNaturelab",
+  "license": "CC Attribution",
+  "faces": 369932,
+  "anims": 0
+ },
+ "monkeyfrog": {
+  "uid": "91c6ad35be174f39958e7374f7b72d83",
+  "name": "Perereca-kambô (Phyllomedusa bicolor)",
+  "author": "Do real ao digital",
+  "user": "Do_real_ao_digital",
+  "license": "CC Attribution",
+  "faces": 60398,
+  "anims": 0
+ },
+ "armadillo": {
+  "uid": "1d86c64b646048d38e8a74fc18fa7e4d",
+  "name": "Armadillo",
+  "author": "RISD Nature Lab",
+  "user": "RISDNaturelab",
+  "license": "CC Attribution",
+  "faces": 1000000,
+  "anims": 0
+ },
+ "puma": {
+  "uid": "15d253288ae844faa1953b7bfe2c8e84",
+  "name": "Cougar In Profile",
+  "author": "restore50",
+  "user": "restore50",
+  "license": "CC Attribution",
+  "faces": 175568,
+  "anims": 0
+ },
+ "scarletmacaw": {
+  "uid": "0c3df3ec36c441b383c742d30652950e",
+  "name": "A macaw_flying 3d model free",
+  "author": "iRahulRajput",
+  "user": "rt699448",
+  "license": "CC Attribution",
+  "faces": 468542,
+  "anims": 0
+ },
+ "hyacinth": {
+  "uid": "a8b5ed7448c64de8812137ad1832fcab",
+  "name": "Macaw Parrot Blue Hyacinth",
+  "author": "Compozip Studios",
+  "user": "CompozipStudios",
+  "license": "CC Attribution",
+  "faces": 233353,
+  "anims": 0
+ },
+ "hummingbird": {
+  "uid": "d9b448ac1025485e843d54bebf35390a",
+  "name": "Hummingbird – Rigged, 6 Animations (Open Bill)",
+  "author": "Animal Animator",
+  "user": "animalanimator",
+  "license": "CC Attribution",
+  "faces": 52622,
+  "anims": 6
+ },
+ "kingvulture": {
+  "uid": "e08e8ccef02f4c99948c8f4a3132c8fa",
+  "name": "Black Vulture",
+  "author": "Innovation Studio",
+  "user": "cmp_innovation_studio",
+  "license": "CC Attribution",
+  "faces": 50668,
+  "anims": 0
+ },
+ "anhinga": {
+  "uid": "62cc28ddc86341f48ba88c242507e6f2",
+  "name": "Double-crested Cormorant",
+  "author": "Innovation Studio",
+  "user": "cmp_innovation_studio",
+  "license": "CC Attribution",
+  "faces": 48606,
+  "anims": 0
+ },
+ "cocoi": {
+  "uid": "332e0a40534843aeb66dd51532f5fceb",
+  "name": "Egretta Caerulea",
+  "author": "dgred",
+  "user": "dgred",
+  "license": "CC Attribution",
+  "faces": 149731,
+  "anims": 0
+ },
+ "egret": {
+  "uid": "38f8d4b4aa404b3f929614c1a8a283ba",
+  "name": "Ardea Alba",
+  "author": "dgred",
+  "user": "dgred",
+  "license": "CC Attribution",
+  "faces": 150000,
+  "anims": 0
+ },
+ "spoonbill": {
+  "uid": "eb01d2617d774c45a882802e2f6765ad",
+  "name": "Platalea ajaja",
+  "author": "dgred",
+  "user": "dgred",
+  "license": "CC Attribution",
+  "faces": 149510,
+  "anims": 0
+ },
+ "redfoot": {
+  "uid": "0bc47e68d77243efa50a22b881970626",
+  "name": "Geochelone carbonaria",
+  "author": "The Smithsonian Institution",
+  "user": "Smithsonian",
+  "license": "CC0 Public Domain",
+  "faces": 99992,
+  "anims": 0
+ },
+ "bulletant": {
+  "uid": "d8d265db0cb74baa95cfb6f28252d5cb",
+  "name": "Ant Textured High poly",
+  "author": "Ret.ouchs",
+  "user": "ret.ouchs",
+  "license": "CC Attribution",
+  "faces": 635631,
+  "anims": 0
+ },
+ "armyant": {
+  "uid": "b48893d316cc4b2f98ec1d1e37027e6a",
+  "name": "Game-Ready Worker ant Model",
+  "author": "Msassasa",
+  "user": "LilCick",
+  "license": "CC Attribution",
+  "faces": 47872,
+  "anims": 16
+ },
+ "wanderingspider": {
+  "uid": "0c4c8316ca444f2a92965d566218ed7b",
+  "name": "Brazilian Wandering Spider",
+  "author": "Brian Trepanier",
+  "user": "CMBC",
+  "license": "CC Attribution",
+  "faces": 13163,
+  "anims": 0
+ },
+ "centipede": {
+  "uid": "551bc7515f1145f7ae689fa558f426ad",
+  "name": "Lacraia (Scolopendra viridicornis)",
+  "author": "Do real ao digital",
+  "user": "Do_real_ao_digital",
+  "license": "CC Attribution",
+  "faces": 44202,
+  "anims": 0
+ },
+ "scorpion": {
+  "uid": "07a3399d6f9b4f928e48176e5f2422ab",
+  "name": "Scorpion",
+  "author": "sirkitree",
+  "user": "sirkitree",
+  "license": "CC Attribution",
+  "faces": 53529,
+  "anims": 0
+ },
+ "katydid": {
+  "uid": "46293fc677404db48bcfc613a5ed1ba1",
+  "name": "CC0 ヤブキリ 🦗 ♂ Shield-backed Katydid",
+  "author": "ffish.asia / floraZia.com",
+  "user": "ffishAsia-and-floraZia",
+  "license": "CC0 Public Domain",
+  "faces": 161980,
+  "anims": 0
+ },
+ "mantis": {
+  "uid": "ec088115ec8746d79c41f2db69665f15",
+  "name": "Praying Mantis",
+  "author": "VirReal4",
+  "user": "VirReal4",
+  "license": "CC Attribution",
+  "faces": 47138,
+  "anims": 0
+ },
+ "vampirebat": {
+  "uid": "8719886cf8f645ca9d53d766976baf9c",
+  "name": "Bat",
+  "author": "ice9",
+  "user": "theice9",
+  "license": "CC Attribution",
+  "faces": 131692,
+  "anims": 1
+ },
+ "margay": {
+  "uid": "e6fe0752b5944eeca11af9e653f174f1",
+  "name": "Jaguarundi",
+  "author": "Raven-Woods",
+  "user": "raven-woods",
+  "license": "CC Attribution",
+  "faces": 6846,
+  "anims": 0
+ },
+ "agouti": {
+  "uid": "fca07562e7f246bebcee940653faf853",
+  "name": "Cutia (Dasyprocta)",
+  "author": "Do real ao digital",
+  "user": "Do_real_ao_digital",
+  "license": "CC Attribution",
+  "faces": 32848,
+  "anims": 0
+ },
+ "manatee": {
+  "uid": "ed7d8c1c53fb4371b9c8fcd8374cf916",
+  "name": "Manatee",
+  "author": "kenchoo",
+  "user": "kenchoo",
+  "license": "CC Attribution-ShareAlike",
+  "faces": 11196,
+  "anims": 1
+ },
+ "marmoset": {
+  "uid": "a2ffc617cd274e74861135c9560d70e6",
+  "name": "Emperor tamarin 3d model free",
+  "author": "iRahulRajput",
+  "user": "rt699448",
+  "license": "CC Attribution",
+  "faces": 739636,
+  "anims": 0
+ },
+ "boa": {
+  "uid": "cfa9f13ccc0b47bdaef29df50fbaa8b6",
+  "name": "Boa Constrictor",
+  "author": "RISD Nature Lab",
+  "user": "RISDNaturelab",
+  "license": "CC Attribution",
+  "faces": 1000000,
+  "anims": 0
+ },
+ "heliconius": {
+  "uid": "0d63e095af6d40f08b275028a0dbf38d",
+  "name": "Heliconius doris ドリスドクチョウ",
+  "author": "Takashi Ijiri (Shibaura Inst. tech.)",
+  "user": "takashiijiri",
+  "license": "CC Attribution",
+  "faces": 59230,
+  "anims": 0
+ },
+ "hercules": {
+  "uid": "faf3adb1cffb447b930da6007cf488cc",
+  "name": "Megasoma elephas",
+  "author": "Bernardo.Delgado",
+  "user": "Bernardo.Delgado",
+  "license": "CC Attribution",
+  "faces": 200000,
+  "anims": 0
+ },
+ "lanternfly": {
+  "uid": "45fcd115362343959b00b1eb6465ac0f",
+  "name": "Jequitiranaboia (Fulgora sp.)",
+  "author": "Do real ao digital",
+  "user": "Do_real_ao_digital",
+  "license": "CC Attribution",
+  "faces": 58798,
+  "anims": 0
+ },
+ "spectacledcaiman": {
+  "uid": "922d1dc6b3dd4c1cac19e120ce10bc9b",
+  "name": "Jacaré",
+  "author": "Do real ao digital",
+  "user": "Do_real_ao_digital",
+  "license": "CC Attribution",
+  "faces": 61326,
+  "anims": 0
+ },
+ "yftortoise": {
+  "uid": "88068d68729f46b1809ae7d81d105fc1",
+  "name": "Jabuti",
+  "author": "Do real ao digital",
+  "user": "Do_real_ao_digital",
+  "license": "CC Attribution",
+  "faces": 54179,
+  "anims": 0
+ },
+ "cotinga": {
+  "uid": "f50929bf26544366b37975506aa3223a",
+  "name": "Spangled cotinga",
+  "author": "The Watt Institution",
+  "user": "wattinstitution",
+  "license": "CC Attribution",
+  "faces": 322896,
+  "anims": 0
+ },
+ "pinktoe": {
+  "uid": "ed037598b3144099a06ba3002d7d339c",
+  "name": "Aranha-caranguejeira (Avicularia sp.)",
+  "author": "Do real ao digital",
+  "user": "Do_real_ao_digital",
+  "license": "CC Attribution",
+  "faces": 46232,
+  "anims": 0
+ },
+ "nunbird": {
+  "uid": "5569059e83374329924857f8b76cfba0",
+  "name": "Bico-de-brasa (Monasa nigrifrons)",
+  "author": "Do real ao digital",
+  "user": "Do_real_ao_digital",
+  "license": "CC Attribution",
+  "faces": 29529,
+  "anims": 0
+ },
+ "lungfish": {
+  "uid": "9c0313836ce145c5bbda6a5a353bd7da",
+  "name": "Pirambóia (Lepidosiren paradoxa)",
+  "author": "Do real ao digital",
+  "user": "Do_real_ao_digital",
+  "license": "CC Attribution",
+  "faces": 58242,
+  "anims": 0
+ },
+ "snowyegret": {
+  "uid": "2728e8efa7c94d5e9e63c56f2a0f9663",
+  "name": "Egretta Thula",
+  "author": "dgred",
+  "user": "dgred",
+  "license": "CC Attribution",
+  "faces": 150000,
+  "anims": 0
+ },
+ "cattleegret": {
+  "uid": "129f7c80ec0942b99a102bed319e7ccd",
+  "name": "Bubulcus Ibis",
+  "author": "dgred",
+  "user": "dgred",
+  "license": "CC Attribution",
+  "faces": 136906,
+  "anims": 0
+ },
+ "kingbird": {
+  "uid": "24cf113c287b4bcdbe3fdd915e2dcf8b",
+  "name": "Tyrannus melancholicus",
+  "author": "dgred",
+  "user": "dgred",
+  "license": "CC Attribution",
+  "faces": 150000,
+  "anims": 0
+ },
+ "grassquit": {
+  "uid": "c7bd1555997b44f3a297a1c5bef33439",
+  "name": "Volatinia jacarina",
+  "author": "dgred",
+  "user": "dgred",
+  "license": "CC Attribution",
+  "faces": 150000,
+  "anims": 0
+ },
+ "whistlingduck": {
+  "uid": "9abf562c08f14f2782ebfe5d21afaf15",
+  "name": "Dendrocygna Autumnalis",
+  "author": "dgred",
+  "user": "dgred",
+  "license": "CC Attribution",
+  "faces": 150000,
+  "anims": 0
+ },
+ "caracara": {
+  "uid": "d3923813abfa4a77b0f761507e8f35a8",
+  "name": "Caracara Plancus",
+  "author": "dgred",
+  "user": "dgred",
+  "license": "CC Attribution",
+  "faces": 149974,
+  "anims": 0
+ },
+ "greenheron": {
+  "uid": "6ed7311b48e642dc9bcb68f72416d080",
+  "name": "Butorides Viriscens",
+  "author": "dgred",
+  "user": "dgred",
+  "license": "CC Attribution",
+  "faces": 150000,
+  "anims": 0
+ },
+ "anableps": {
+  "uid": "6ffbc8456961462090e1dd534d2a4871",
+  "name": "Tralhoto (Anableps sp.)",
+  "author": "Do real ao digital",
+  "user": "Do_real_ao_digital",
+  "license": "CC Attribution",
+  "faces": 23096,
+  "anims": 0
+ },
+ "boa2": {
+  "uid": "5db853efa22e496a9774b5a5c5eb61b7",
+  "name": "Jiboia",
+  "author": "Do real ao digital",
+  "user": "Do_real_ao_digital",
+  "license": "CC Attribution",
+  "faces": 63327,
+  "anims": 0
+ },
+ "grasshopper": {
+  "uid": "4ee0543f10dd4ee1a3be1fe3b1c08478",
+  "name": "Gafanhoto",
+  "author": "Do real ao digital",
+  "user": "Do_real_ao_digital",
+  "license": "CC Attribution",
+  "faces": 54987,
+  "anims": 0
+ },
+ "tricolor": {
+  "uid": "d6aadd88b1eb41ca84de7ead3d6ef119",
+  "name": "Egretta Tricolor",
+  "author": "dgred",
+  "user": "dgred",
+  "license": "CC Attribution",
+  "faces": 150000,
+  "anims": 0
+ },
+ "swallowhum": {
+  "uid": "db761226ef2b41b5b6dbdae5a80e715b",
+  "name": "Swallow-tailed Hummingbird",
+  "author": "gelmi.com.br",
+  "user": "rodrigogelmi",
+  "license": "CC Attribution",
+  "faces": 10560,
+  "anims": 0
+ },
+ "tanager": {
+  "uid": "f6d5821e9abd42dfb9fdf428d19beed0",
+  "name": "Piranga Rubra",
+  "author": "dgred",
+  "user": "dgred",
+  "license": "CC Attribution",
+  "faces": 149999,
+  "anims": 0
+ },
+ "swallow": {
+  "uid": "489904e2a75946dcb9eaa2399399c77d",
+  "name": "Hirundo Rustica",
+  "author": "dgred",
+  "user": "dgred",
+  "license": "CC Attribution",
+  "faces": 150000,
+  "anims": 0
+ },
+ "flycatcher": {
+  "uid": "9e2ce7b6071848d193ecbf10ce44ef9b",
+  "name": "Myiarchus Tuberculifer",
+  "author": "dgred",
+  "user": "dgred",
+  "license": "CC Attribution",
+  "faces": 150000,
+  "anims": 0
+ },
+ "burneyi": {
+  "uid": "ba40977ed1334b20aaa9e59c1ca31a35",
+  "name": "Burney's longwing (Heliconius burneyi) ブルネイドクチョウ",
+  "author": "Takashi Ijiri (Shibaura Inst. tech.)",
+  "user": "takashiijiri",
+  "license": "CC Attribution",
+  "faces": 79070,
+  "anims": 0
+ },
+ "tigerleaf": {
+  "uid": "6b65920cb9244bca9dedd625820e249b",
+  "name": "Tiger Striped Leaf Frog",
+  "author": "Peter Linejung",
+  "user": "linejung",
+  "license": "CC Attribution",
+  "faces": 7644,
+  "anims": 0
+ },
+ "scorpion2": {
+  "uid": "b29d612a19a2487ca426854da69d6adc",
+  "name": "Escorpião",
+  "author": "Do real ao digital",
+  "user": "Do_real_ao_digital",
+  "license": "CC Attribution",
+  "faces": 26011,
+  "anims": 0
+ }
+}
