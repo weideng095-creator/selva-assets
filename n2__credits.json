@@ -1,0 +1,191 @@
+{
+ "blackpiranha": {
+  "uid": "4a2b909e19ac44a48d85455676e92b9d",
+  "name": "Black Piranha Adult (Serrasalmus Rhombeus)",
+  "author": "Nullified",
+  "user": "Nullifiedit",
+  "license": "CC Attribution",
+  "faces": 311511,
+  "anims": 0
+ },
+ "achilles": {
+  "uid": "263b0766e11849dfb9f3eddaa244903e",
+  "name": "YPM ENT.798173 Blue morpho, Morpho achilles",
+  "author": "Yale Peabody Museum",
+  "user": "yalepeabodymuseum",
+  "license": "CC Attribution",
+  "faces": 999999,
+  "anims": 0
+ },
+ "turkeyvulture": {
+  "uid": "77acd43c207e4a1182248bd9e31ce656",
+  "name": "Cathartes Aura",
+  "author": "dgred",
+  "user": "dgred",
+  "license": "CC Attribution",
+  "faces": 150000,
+  "anims": 0
+ },
+ "boatbill": {
+  "uid": "462ef811e18c4e809a68f70598dd51ae",
+  "name": "Cochlearius Cochlearius",
+  "author": "dgred",
+  "user": "dgred",
+  "license": "CC Attribution",
+  "faces": 150000,
+  "anims": 0
+ },
+ "euchroma": {
+  "uid": "972bc74119ad42deb6588895a98eec61",
+  "name": "YPM ENT.620664 Coleoptera: Euchroma giganteum",
+  "author": "Yale Peabody Museum",
+  "user": "yalepeabodymuseum",
+  "license": "CC Attribution",
+  "faces": 248489,
+  "anims": 0
+ },
+ "eciton": {
+  "uid": "032ade8bcd53473388a9f57c2179f4d4",
+  "name": "Eciton Burchellii",
+  "author": "Nobilis the Palaeovespa",
+  "user": "nobilishornet",
+  "license": "CC Attribution",
+  "faces": 1093522,
+  "anims": 0
+ },
+ "pleco": {
+  "uid": "3c4466d5f0ce4b2e81a692ba89807ced",
+  "name": "Hypostomus / Coroncoro",
+  "author": "alzarac",
+  "user": "alzarac",
+  "license": "CC Attribution",
+  "faces": 39968,
+  "anims": 0
+ },
+ "eudocima": {
+  "uid": "612d31e08d49427ea7d3ae99ed01a766",
+  "name": "YPM ENT.872728 Lepidoptera: Eudocima procus",
+  "author": "Yale Peabody Museum",
+  "user": "yalepeabodymuseum",
+  "license": "CC Attribution",
+  "faces": 281085,
+  "anims": 0
+ },
+ "nightheron": {
+  "uid": "edcd823f449b4e698e0472dc68222e7c",
+  "name": "Nyctanassa violacea",
+  "author": "dgred",
+  "user": "dgred",
+  "license": "CC Attribution",
+  "faces": 150000,
+  "anims": 0
+ },
+ "whitetail": {
+  "uid": "454842912ea248c786d75cff69b10b7e",
+  "name": "Odocoileus Virginuanus",
+  "author": "dgred",
+  "user": "dgred",
+  "license": "CC Attribution",
+  "faces": 149388,
+  "anims": 0
+ },
+ "orchidbee": {
+  "uid": "dfdd46ec195942a3a26ea924521a6d0d",
+  "name": "Orchid Bee – Adult -Photogrammetric Model",
+  "author": "etainproject",
+  "user": "etainproject",
+  "license": "CC Attribution",
+  "faces": 2690097,
+  "anims": 0
+ },
+ "kiskadee": {
+  "uid": "13c250e9daa443adb20c073910b52b7d",
+  "name": "Pitangus Sulphuratus",
+  "author": "dgred",
+  "user": "dgred",
+  "license": "CC Attribution",
+  "faces": 150000,
+  "anims": 0
+ },
+ "motoro": {
+  "uid": "2b7a2d9fc68e444a802932ba3dab6d94",
+  "name": "Potamotrygon motoro",
+  "author": "faerbogdan99",
+  "user": "faerbogdan99",
+  "license": "CC Attribution",
+  "faces": 40000,
+  "anims": 0
+ },
+ "silverdollar": {
+  "uid": "4a44519b3cf44c7799dce5cf072f08ae",
+  "name": "Silver Dollar (Mylossoma Duriventre)",
+  "author": "Nullified",
+  "user": "Nullifiedit",
+  "license": "CC Attribution",
+  "faces": 244325,
+  "anims": 0
+ },
+ "metynnis": {
+  "uid": "b0c6c5e411ec44cb8e60ed4886009dd0",
+  "name": "Silver Dollar Piranha (Metynnis Argenteus)",
+  "author": "Nullified",
+  "user": "Nullifiedit",
+  "license": "CC Attribution",
+  "faces": 167377,
+  "anims": 0
+ },
+ "silkyanteater": {
+  "uid": "61f6e61252a14ff38931f4a559290b30",
+  "name": "Tamanduaí (Cyclopes didactylus)",
+  "author": "Do real ao digital",
+  "user": "Do_real_ao_digital",
+  "license": "CC Attribution",
+  "faces": 26753,
+  "anims": 0
+ },
+ "manakin": {
+  "uid": "0905ba80e7054017924d8b079856aff2",
+  "name": "Tangará macho (Chiroxiphia pareola)",
+  "author": "Do real ao digital",
+  "user": "Do_real_ao_digital",
+  "license": "CC Attribution",
+  "faces": 45968,
+  "anims": 0
+ },
+ "erotylid": {
+  "uid": "f619741aa9504fa4abb259d60f66a6d3",
+  "name": "YPM ENT.623716 Coleoptera: Ellipticus dorbignyi",
+  "author": "Yale Peabody Museum",
+  "user": "yalepeabodymuseum",
+  "license": "CC Attribution",
+  "faces": 95896,
+  "anims": 0
+ },
+ "peregrine": {
+  "uid": "49cb0ef2fa2847b0aca92ab6deecf919",
+  "name": "Peregrine Falcon (Falco peregrinus)",
+  "author": "The Watt Institution",
+  "user": "wattinstitution",
+  "license": "CC Attribution",
+  "faces": 991474,
+  "anims": 0
+ },
+ "barnowl": {
+  "uid": "608a7502cf2643d9ab4c89294199a8d1",
+  "name": "Barn Owl (Tyto alba)",
+  "author": "The Watt Institution",
+  "user": "wattinstitution",
+  "license": "CC Attribution",
+  "faces": 762516,
+  "anims": 0
+ },
+ "warriorwasp": {
+  "uid": "a0fed1fb6f4942dc80ed8b1edb52b1f3",
+  "name": "Synoeca(Warrior Wasp)",
+  "author": "mikrogane",
+  "user": "mikrogane",
+  "license": "CC Attribution",
+  "faces": 398880,
+  "anims": 1
+ }
+}
